@@ -1,18 +1,25 @@
+armendselmanii
+armendselmanii
+Final commit
+df9c0dc
+ · 
+now
+History
 175004.txt
 Final commit
-5 minutes ago
+10 minutes ago
 README.md
 Initial commit
 1 hour ago
 SILab1Main.java
-Add starter code
-1 hour ago
+Call method makeBigStringFrom in main class
+2 minutes ago
 SILab1_1.java
-Add starter code
-1 hour ago
-SILab1_2.java 
-Add starter code
-1 hour ago
+Fix wrong condition in filterOddLengthStrings
+1 minute ago
+SILab1_2.java
+Fix wrong condition in makeBigStringFrom
+1 minute ago
 logs.txt
 Final commit
-5 minutes ago
+now
